@@ -9,6 +9,8 @@
             (function() {
                 const appearance = '{{ $appearance ?? "system" }}';
 
+                document.documentElement.classList.add('js');
+
                 if (appearance === 'system') {
                     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
 
@@ -22,7 +24,7 @@
         {{-- Inline style to set the HTML background color based on our theme in app.css --}}
         <style>
             html {
-                background-color: oklch(1 0 0);
+                background-color: #f3f0e8;
             }
 
             html.dark {

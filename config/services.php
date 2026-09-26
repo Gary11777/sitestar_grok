@@ -35,4 +35,13 @@ return [
         ],
     ],
 
+    /*
+    | Cloudflare Turnstile. The site key is public; the secret stays on the server.
+    | Leave both empty in local development to exercise the form without a widget.
+    */
+    'turnstile' => [
+        'site_key' => env('TURNSTILE_SITE_KEY'),
+        'secret' => env('TURNSTILE_SECRET_KEY'),
+    ],
+
 ];

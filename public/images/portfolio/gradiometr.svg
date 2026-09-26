@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Abstract cover for a magnetometer product site">
+    <rect width="1200" height="750" fill="#10211f"/>
+    <path d="M120 430 C 220 360, 280 500, 380 430 S 540 360, 640 430 S 800 500, 900 400 S 1040 340, 1100 390" fill="none" stroke="#b8893d" stroke-width="3"/>
+    <path d="M120 470 C 240 520, 300 390, 420 470 S 580 540, 700 450 S 860 360, 980 470" fill="none" stroke="#e7d3a8" stroke-width="1.5" opacity="0.7"/>
+    <g transform="translate(860 150)">
+        <rect x="70" y="40" width="70" height="280" rx="35" fill="#161a22" stroke="#e7d3a8" stroke-width="2"/>
+        <rect x="92" y="8" width="26" height="70" rx="8" fill="#b8893d"/>
+        <circle cx="105" cy="250" r="10" fill="#b8893d"/>
+    </g>
+    <text x="120" y="180" fill="#f3f0e8" font-family="Georgia, serif" font-size="42">Field signal</text>
+    <text x="120" y="230" fill="#e7d3a8" font-family="Arial, sans-serif" font-size="18">A walking instrument</text>
+</svg>
