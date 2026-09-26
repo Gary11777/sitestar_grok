@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Abstract cover for an electronics studio site">
+    <rect width="1200" height="750" fill="#161a22"/>
+    <rect x="72" y="64" width="1056" height="622" rx="28" fill="#1c2230"/>
+    <g fill="none" stroke="#b8893d" stroke-width="2">
+        <path d="M150 210 H430 V390 H690"/>
+        <path d="M690 390 V250 H930"/>
+        <path d="M250 520 H560 V430"/>
+        <path d="M820 470 H980 V560 H760"/>
+    </g>
+    <g fill="#b8893d">
+        <circle cx="430" cy="210" r="7"/>
+        <circle cx="690" cy="390" r="7"/>
+        <circle cx="930" cy="250" r="7"/>
+        <circle cx="560" cy="520" r="7"/>
+        <circle cx="820" cy="470" r="7"/>
+    </g>
+    <rect x="470" y="250" width="150" height="96" rx="12" fill="none" stroke="#e7d3a8" stroke-width="2"/>
+    <path d="M500 298 H590" stroke="#e7d3a8" stroke-width="2"/>
+    <path d="M500 318 H560" stroke="#4a5160" stroke-width="2"/>
+    <text x="150" y="160" fill="#e7d3a8" font-family="Georgia, serif" font-size="28">Device path</text>
+</svg>
